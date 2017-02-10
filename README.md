@@ -1,6 +1,5 @@
 # Python_Projects
 
-Hello fellow Humans,
-
-You have entered my GitHub repository for various Python Projects I have been working on.
+ThinkPython Tutortials (Based on the following book by Allen Downey http://greenteapress.com/wp/think-python-2e/)
+-->My copy & paste style notes in Jupyter Notebook
 
